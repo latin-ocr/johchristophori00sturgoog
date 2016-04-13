@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johchristophori00sturgoog_0731.png"; bbox 0 0 2242 3722; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 26 1590 1019 1872">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 26 1590 1019 1872">
+     <span class='ocr_line' id='line_1_1' title="bbox 26 1590 1019 1872; baseline -0.031 -9"><span class='ocrx_word' id='word_1_1' title='bbox 26 1825 28 1828; x_wconf 90' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 84 1743 336 1872; x_wconf 51' lang='lat' dir='ltr'>Mam</span> <span class='ocrx_word' id='word_1_3' title='bbox 356 1590 1019 1868; x_wconf 50' lang='lat' dir='ltr'>r012assf02asfflu=2</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 1860 968 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 164 1860 1019 2108">
+     <span class='ocr_line' id='line_1_2' title="bbox 168 1860 913 1992; baseline 0.009 -16"><span class='ocrx_word' id='word_1_4' title='bbox 168 1860 913 1992; x_wconf 51' lang='lat' dir='ltr'>rarumwbfflcfflffl‘mlfflff</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 364 1959 968 2104; baseline -0.011 1.761"><span class='ocrx_word' id='word_1_5' title='bbox 364 1980 652 2104; x_wconf 49' lang='lat' dir='ltr'>ssfflfifflffi</span> <span class='ocrx_word' id='word_1_6' title='bbox 730 1959 819 2028; x_wconf 68' lang='lat'>‘⁷‘</span> <span class='ocrx_word' id='word_1_7' title='bbox 961 1993 968 2013; x_wconf 86' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1126 3722">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1126 3722">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1126 3722; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1126 3722; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
